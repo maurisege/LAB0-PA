@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1585466241 source:d:\practico eda\lab 0 pa\main.cpp
+	<iostream>
+
+<<<<<<< HEAD
+1585466241 D
+
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ca8f626ba4c9a8bf89d67e1d4d84094dfba11af8
+1585667227 source:c:\users\belen\documents\github\lab-pa\main.cpp
+
+1585689115 source:c:\users\fdelp\documents\github\lab-pa\main.cpp
+<<<<<<< HEAD
+
+1585689115 aab2aa598604b545ad4caee1de5ddce33cfe0
+=======
+>>>>>>> 38aaab2aa598604b545ad4caee1de5ddce33cfe0
+=======
+1585621164 source:c:\users\michael\documents\github\lab-pa\main.cpp
+>>>>>>> RamaMichael
+>>>>>>> ca8f626ba4c9a8bf89d67e1d4d84094dfba11af8
+	<iostream>
+
+1585777930 source:c:\users\kalo\documents\github\lab-pa\main.cpp
+	<iostream>
+	"Datatypes.h"
+	"Class.h"
+
+1585777996 c:\users\kalo\documents\github\lab-pa\datatypes.h
+
+1585777930 c:\users\kalo\documents\github\lab-pa\class.h
+
