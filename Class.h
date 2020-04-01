@@ -1,10 +1,13 @@
 #ifndef CLASS_H_INCLUDED
 #define CLASS_H_INCLUDED
+
+using namespace std;
+
 //Clases
 
 class Usuario{
 private:
-    string cedula;
+    std::string cedula;
     string nombre;
     Dtfecha fechaIngreso;
 public:
